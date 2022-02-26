@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "270020856507",
+    "project_id": "pilkeltos-tapwpb",
+    "storage_bucket": "pilkeltos-tapwpb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270020856507:android:27f65f09d11a397104379e",
+        "android_client_info": {
+          "package_name": "com.example.pilketos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270020856507-1s6r4juoopcej8fegveb71ec7ptnmrda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm9S7oH86SPRzjcoTESbLtaUqKcGdh0iQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270020856507-1s6r4juoopcej8fegveb71ec7ptnmrda.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
